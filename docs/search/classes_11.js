@@ -11,7 +11,6 @@ var searchData=
   ['selecttool',['SelectTool',['../class_select_tool.html',1,'']]],
   ['shortcutfilter',['ShortcutFilter',['../class_shortcut_filter.html',1,'']]],
   ['shortcutspage',['ShortcutsPage',['../class_shortcuts_page.html',1,'']]],
-  ['signalevent',['SignalEvent',['https://doc.qt.io/qt-5/qstatemachine-signalevent.html',1,'QStateMachine']]],
   ['singlevaluegenerator',['SingleValueGenerator',['../class_catch_1_1_generators_1_1_single_value_generator.html',1,'Catch::Generators']]],
   ['smudgetool',['SmudgeTool',['../class_smudge_tool.html',1,'']]],
   ['soundclip',['SoundClip',['../class_sound_clip.html',1,'']]],
@@ -53,7 +52,6 @@ var searchData=
   ['stringmaker_3c_20wchar_5ft_20const_20_2a_20_3e',['StringMaker&lt; wchar_t const * &gt;',['../struct_catch_1_1_string_maker_3_01wchar__t_01const_01_5_01_4.html',1,'Catch']]],
   ['stringmatcherbase',['StringMatcherBase',['../struct_catch_1_1_matchers_1_1_std_string_1_1_string_matcher_base.html',1,'Catch::Matchers::StdString']]],
   ['stringref',['StringRef',['../class_catch_1_1_string_ref.html',1,'Catch']]],
-  ['stringresult',['StringResult',['https://doc.qt.io/qt-5/qcborstreamreader-stringresult.html',1,'QCborStreamReader']]],
   ['strokemanager',['StrokeManager',['../class_stroke_manager.html',1,'']]],
   ['stroketool',['StrokeTool',['../class_stroke_tool.html',1,'']]]
 ];
