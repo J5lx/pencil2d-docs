@@ -1,16 +1,19 @@
 var searchData=
 [
+  ['scaledpixmapargument',['ScaledPixmapArgument',['https://doc.qt.io/qt-5/qiconengine-scaledpixmapargument.html',1,'QIconEngine']]],
   ['scopedmessage',['ScopedMessage',['../class_catch_1_1_scoped_message.html',1,'Catch']]],
   ['scopeguard',['ScopeGuard',['../class_scope_guard.html',1,'']]],
   ['scribblearea',['ScribbleArea',['../class_scribble_area.html',1,'']]],
   ['section',['Section',['../class_catch_1_1_section.html',1,'Catch']]],
   ['sectionendinfo',['SectionEndInfo',['../struct_catch_1_1_section_end_info.html',1,'Catch']]],
   ['sectioninfo',['SectionInfo',['../struct_catch_1_1_section_info.html',1,'Catch']]],
+  ['selection',['Selection',['https://doc.qt.io/qt-5/qabstracttextdocumentlayout-selection.html',1,'QAbstractTextDocumentLayout']]],
   ['selectionmanager',['SelectionManager',['../class_selection_manager.html',1,'']]],
   ['selectionpainter',['SelectionPainter',['../class_selection_painter.html',1,'']]],
   ['selecttool',['SelectTool',['../class_select_tool.html',1,'']]],
   ['shortcutfilter',['ShortcutFilter',['../class_shortcut_filter.html',1,'']]],
   ['shortcutspage',['ShortcutsPage',['../class_shortcuts_page.html',1,'']]],
+  ['signalevent',['SignalEvent',['https://doc.qt.io/qt-5/qstatemachine-signalevent.html',1,'QStateMachine']]],
   ['singlevaluegenerator',['SingleValueGenerator',['../class_catch_1_1_generators_1_1_single_value_generator.html',1,'Catch::Generators']]],
   ['smudgetool',['SmudgeTool',['../class_smudge_tool.html',1,'']]],
   ['soundclip',['SoundClip',['../class_sound_clip.html',1,'']]],
@@ -19,8 +22,8 @@ var searchData=
   ['sourcelineinfo',['SourceLineInfo',['../struct_catch_1_1_source_line_info.html',1,'Catch']]],
   ['spinslider',['SpinSlider',['../class_spin_slider.html',1,'']]],
   ['startswithmatcher',['StartsWithMatcher',['../struct_catch_1_1_matchers_1_1_std_string_1_1_starts_with_matcher.html',1,'Catch::Matchers::StdString']]],
+  ['state',['State',['https://doc.qt.io/qt-5/qaccessible-state.html',1,'QAccessible']]],
   ['status',['Status',['../class_status.html',1,'']]],
-  ['statusint',['StatusInt',['../struct_status_1_1_status_int.html',1,'Status']]],
   ['streamendstop',['StreamEndStop',['../struct_catch_1_1_stream_end_stop.html',1,'Catch']]],
   ['stringmaker',['StringMaker',['../struct_catch_1_1_string_maker.html',1,'Catch']]],
   ['stringmaker_3c_20bool_20_3e',['StringMaker&lt; bool &gt;',['../struct_catch_1_1_string_maker_3_01bool_01_4.html',1,'Catch']]],
@@ -52,6 +55,7 @@ var searchData=
   ['stringmaker_3c_20wchar_5ft_20const_20_2a_20_3e',['StringMaker&lt; wchar_t const * &gt;',['../struct_catch_1_1_string_maker_3_01wchar__t_01const_01_5_01_4.html',1,'Catch']]],
   ['stringmatcherbase',['StringMatcherBase',['../struct_catch_1_1_matchers_1_1_std_string_1_1_string_matcher_base.html',1,'Catch::Matchers::StdString']]],
   ['stringref',['StringRef',['../class_catch_1_1_string_ref.html',1,'Catch']]],
+  ['stringresult',['StringResult',['https://doc.qt.io/qt-5/qcborstreamreader-stringresult.html',1,'QCborStreamReader']]],
   ['strokemanager',['StrokeManager',['../class_stroke_manager.html',1,'']]],
   ['stroketool',['StrokeTool',['../class_stroke_tool.html',1,'']]]
 ];

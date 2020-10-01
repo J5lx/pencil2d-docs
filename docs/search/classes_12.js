@@ -1,5 +1,7 @@
 var searchData=
 [
+  ['tab',['Tab',['https://doc.qt.io/qt-5/qtextoption-tab.html',1,'QTextOption']]],
+  ['takerowresult',['TakeRowResult',['https://doc.qt.io/qt-5/qformlayout-takerowresult.html',1,'QFormLayout']]],
   ['tdefl_5fcompressor',['tdefl_compressor',['../structtdefl__compressor.html',1,'']]],
   ['tdefl_5foutput_5fbuffer',['tdefl_output_buffer',['../structtdefl__output__buffer.html',1,'']]],
   ['tdefl_5fsym_5ffreq',['tdefl_sym_freq',['../structtdefl__sym__freq.html',1,'']]],
@@ -13,6 +15,7 @@ var searchData=
   ['timelinecells',['TimeLineCells',['../class_time_line_cells.html',1,'']]],
   ['timelinepage',['TimelinePage',['../class_timeline_page.html',1,'']]],
   ['timer',['Timer',['../class_catch_1_1_timer.html',1,'Catch']]],
+  ['timerinfo',['TimerInfo',['https://doc.qt.io/qt-5/qabstracteventdispatcher-timerinfo.html',1,'QAbstractEventDispatcher']]],
   ['tinfl_5fdecompressor_5ftag',['tinfl_decompressor_tag',['../structtinfl__decompressor__tag.html',1,'']]],
   ['tinfl_5fhuff_5ftable',['tinfl_huff_table',['../structtinfl__huff__table.html',1,'']]],
   ['toolboxwidget',['ToolBoxWidget',['../class_tool_box_widget.html',1,'']]],
@@ -20,5 +23,6 @@ var searchData=
   ['tooloptionwidget',['ToolOptionWidget',['../class_tool_option_widget.html',1,'']]],
   ['toolspage',['ToolsPage',['../class_tools_page.html',1,'']]],
   ['totals',['Totals',['../struct_catch_1_1_totals.html',1,'Catch']]],
+  ['touchpoint',['TouchPoint',['https://doc.qt.io/qt-5/qtouchevent-touchpoint.html',1,'QTouchEvent']]],
   ['transformparameters',['TransformParameters',['../struct_transform_parameters.html',1,'']]]
 ];
